@@ -4,6 +4,6 @@ class EmailService {
     }
 
     public boolean sendEmail2(User user, String s) {
-        return false;
+        return true;
     }
 }

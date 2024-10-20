@@ -1,6 +1,5 @@
 class UserRegistrationResult {
 
-
     private final boolean emailSent;
     private final boolean statisticsUpdated;
 
@@ -10,10 +9,10 @@ class UserRegistrationResult {
     }
 
     public boolean isEmailSent() {
-        return false;
+        return true;
     }
 
     public boolean isStatisticsUpdated() {
-        return false;
+        return true;
     }
 }

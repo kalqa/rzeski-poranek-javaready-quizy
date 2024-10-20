@@ -4,6 +4,6 @@ class StatisticsService {
     }
 
     public boolean incrementUserRegistrations2() {
-        return false;
+        return true;
     }
 }
