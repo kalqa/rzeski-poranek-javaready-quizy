@@ -1,0 +1,4 @@
+package beany;
+
+class SomeBean {
+}
